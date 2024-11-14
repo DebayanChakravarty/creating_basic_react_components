@@ -4,7 +4,7 @@ import Imagecomponent from "./components/imagecomponent/Imagecomponent";
 function App() {
   return (
     <div>
-      <Headercomponent></Headercomponent>
+      <Headercomponent />
       <Imagecomponent />
     </div>
   );
