@@ -1,4 +1,5 @@
-#[Demo-APP-basic-image-holder-Mahabharatha]
+# [Demo-APP-basic-image-holder-Mahabharatha]
+
 1)https://debayanchakravarty.in/dynamic-image-component-part-one/
 
 # Getting Started with Create React App
